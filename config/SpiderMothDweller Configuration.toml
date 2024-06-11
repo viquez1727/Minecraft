@@ -1,0 +1,15 @@
+
+[Spawning]
+	#This controls whether all dweller versions will require thunderstorm weather to spawn
+	"Dweller_requires_thunder?" = true
+	#Do you want the dweller and clone versions to spawn naturally?
+	"Dweller Spawning" = true
+	#This controls whether the dweller boss is included in general. Set to false if you only want the other mobs, and the dweller will become unable to be spawned in any way.
+	"Dweller Inclusion" = true
+	#Dweller and variant spawns are rare by default. 1=twice as common. 2=default rarity. 3=twice as rare. 4=three times rarer.
+	"Dweller Rarity" = 2.0
+
+[Difficulty]
+	#By default, the dweller boss has 350 health. Choose true to decrease this to 60 health,
+	"Dweller Health" = false
+

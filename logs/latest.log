@@ -1,0 +1,122 @@
+[05jun.2024 00:03:08.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Beta'/154172, l='ServerLevel[world]', x=-404.18, y=-44.00, z=2431.46] died: Beta was slain by Zombie
+[05jun.2024 00:05:26.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Chickon98'/156768, l='ServerLevel[world]', x=-660.17, y=-17.00, z=2654.23] died: Chickon98 was slain by Zombie
+[05jun.2024 00:05:52.412] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-697, y=62, z=2608}
+[05jun.2024 00:06:06.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['WinVic'/158037, l='ServerLevel[world]', x=-707.55, y=30.00, z=2678.42] died: WinVic was slain by Zombie
+[05jun.2024 00:08:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaias2222> herobrine
+[05jun.2024 00:09:19.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Mr.Lambert'/160974, l='ServerLevel[world]', x=-651.51, y=-30.08, z=2576.58] died: Mr.Lambert was slain by The Pregnant
+[05jun.2024 00:14:17.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Mr.Lambert'/166049, l='ServerLevel[world]', x=-448.96, y=28.00, z=2320.48] died: Mr.Lambert was slain by Zombie
+[05jun.2024 00:16:46.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['TeamAbyssal'/170236, l='ServerLevel[world]', x=-668.46, y=-24.00, z=2636.50] died: TeamAbyssal was slain by Dread Hound
+[05jun.2024 00:17:57.362] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-663, y=62, z=2613}
+[05jun.2024 00:19:21.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05jun.2024 00:19:40.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05jun.2024 00:19:46.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[05jun.2024 00:20:22.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Kronoz'/173676, l='ServerLevel[world]', x=-683.93, y=12.92, z=2640.50] died: Kronoz was impaled by Drowned
+[05jun.2024 00:21:10.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/167938, l='ServerLevel[world]', x=-698.08, y=64.00, z=2633.30] died, message: 'Farmer was slain by Mutated Human'
+[05jun.2024 00:21:16.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/167898, l='ServerLevel[world]', x=-703.70, y=64.00, z=2622.62] died, message: 'Cleric was slain by Mutated Human'
+[05jun.2024 00:21:23.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/167895, l='ServerLevel[world]', x=-698.73, y=65.00, z=2622.51] died, message: 'Cleric was slain by Mutated Human'
+[05jun.2024 00:21:45.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/167896, l='ServerLevel[world]', x=-704.70, y=63.00, z=2559.30] died, message: 'Nitwit was slain by Mutated Pig'
+[05jun.2024 00:21:45.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['AnnoyingSrpFan123'/175306, l='ServerLevel[world]', x=-801.37, y=16.00, z=2511.52] died: AnnoyingSrpFan123 was slain by Zombie
+[05jun.2024 00:22:27.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaias2222 was slain by Mutated Human
+[05jun.2024 00:22:50.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['kevin'/178209, l='ServerLevel[world]', x=-647.54, y=-20.00, z=2653.93] died: kevin was blown up by Mutated Creeper
+[05jun.2024 00:23:16.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Isaias2222'/176924, l='ServerLevel[world]', x=-742.29, y=62.98, z=2550.04] died: Isaias2222 was slain by Isaias2222
+[05jun.2024 00:29:10.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Mr.Lambert'/185599, l='ServerLevel[world]', x=-569.30, y=-11.00, z=2469.54] died: Mr.Lambert was slain by Zombie Bruiser
+[05jun.2024 00:29:18.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Cock Jamers'/185442, l='ServerLevel[world]', x=-572.98, y=-13.00, z=2448.49] died: Cock Jamers was shot by Missionary
+[05jun.2024 00:29:33.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Korben'/186313, l='ServerLevel[world]', x=-513.72, y=24.77, z=2489.37] died: Korben was slain by Zombie
+[05jun.2024 00:32:40.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Kronoz'/190644, l='ServerLevel[world]', x=-433.54, y=7.00, z=2404.45] died: Kronoz was slain by Zombie
+[05jun.2024 00:33:52.861] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-197, y=63, z=2474}
+[05jun.2024 00:35:17.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['wRatte'/193838, l='ServerLevel[world]', x=2.00, y=19.66, z=2533.56] died: wRatte was shot by Supreme Bonescaller
+[05jun.2024 00:40:48.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Mr.Lambert'/200930, l='ServerLevel[world]', x=-400.55, y=-45.00, z=2370.24] died: Mr.Lambert was slain by Skeleton Thrasher
+[05jun.2024 00:40:48.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Isha21'/200419, l='ServerLevel[world]', x=-459.64, y=35.00, z=2299.33] died: Isha21 was slain by Ghoul
+[05jun.2024 00:41:34.123] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['Harbinger'/201039, l='ServerLevel[world]', x=-470.35, y=-21.00, z=2424.80] died: Harbinger was killed by magic whilst trying to escape Zombie Villager
+[05jun.2024 00:42:12.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedAdventurerEntity['WitherBean'/201217, l='ServerLevel[world]', x=-377.46, y=-41.29, z=2410.52] died: WitherBean was slain by Zombie
+[05jun.2024 00:42:14.091] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: class net.minecraft.world.entity.projectile.Arrow cannot be cast to class net.minecraft.world.entity.LivingEntity (net.minecraft.world.entity.projectile.Arrow and net.minecraft.world.entity.LivingEntity are in module minecraft@1.20.1 of loader 'TRANSFORMER' @43b5021c)
+	Index: 6
+	Listeners:
+		0: NORMAL
+		1: ASM: class apollyon.procedures.TheDamnedSilencesProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		2: ASM: class net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		3: ASM: class net.mcreator.theknocker.procedures.DespawnwhenkillProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		4: ASM: class net.mcreator.sasquatch.procedures.PlayerDeathResetAngerProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		5: ASM: com.lgow.endofherobrine.event.WrathHandler@49f360d1 onMobKillScore(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		6: ASM: class net.teamabyssalofficial.extra.ParasiteKillsBuffEvent ParasiteBuffEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		7: ASM: class net.teamabyssalofficial.extra.MutationEvent MutationEventFDM(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		8: ASM: class net.teamabyssalofficial.extra.HeadKillsEvent HeadKillsEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		9: ASM: class net.teamabyssalofficial.extra.AdvancementHandling MutationSlaying(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		10: ASM: class net.arphex.procedures.EntityDiesProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		11: ASM: class net.mcreator.undeadrevamp.procedures.SkillissueProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		12: ASM: class net.mcreator.borninchaosv.procedures.ZombieMaggotsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		13: ASM: class net.mcreator.borninchaosv.procedures.RampagePProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		14: ASM: class net.mcreator.borninchaosv.procedures.DeathTotemKoghdaPriedmietNakhoditsiaVRukieProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+java.lang.ClassCastException: class net.minecraft.world.entity.projectile.Arrow cannot be cast to class net.minecraft.world.entity.LivingEntity (net.minecraft.world.entity.projectile.Arrow and net.minecraft.world.entity.LivingEntity are in module minecraft@1.20.1 of loader 'TRANSFORMER' @43b5021c)
+	at TRANSFORMER/fight_or_die@1.20.1-1.1.4/net.teamabyssalofficial.extra.ParasiteKillsBuffEvent.ParasiteBuffEvent(ParasiteKillsBuffEvent.java:21)
+	at TRANSFORMER/fight_or_die@1.20.1-1.1.4/net.teamabyssalofficial.extra.__ParasiteKillsBuffEvent_ParasiteBuffEvent_LivingDeathEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.2.0/net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6667_(LivingEntity.java:1304)
+	at TRANSFORMER/fight_or_die@1.20.1-1.1.4/net.teamabyssalofficial.entity.categories.Mutated.m_6667_(Mutated.java:161)
+	at TRANSFORMER/fight_or_die@1.20.1-1.1.4/net.teamabyssalofficial.entity.custom.AssimilatedFoxEntity.m_6667_(AssimilatedFoxEntity.java:215)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.projectile.AbstractArrow.m_5790_(AbstractArrow.java:352)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.projectile.Projectile.m_6532_(Projectile.java:138)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.projectile.AbstractArrow.m_8119_(AbstractArrow.java:209)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.projectile.Arrow.m_8119_(Arrow.java:104)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.Level.m_46653_(Level.java:479)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05jun.2024 00:42:14.210] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+Caused by: java.lang.ClassCastException: class net.minecraft.world.entity.projectile.Arrow cannot be cast to class net.minecraft.world.entity.LivingEntity (net.minecraft.world.entity.projectile.Arrow and net.minecraft.world.entity.LivingEntity are in module minecraft@1.20.1 of loader 'TRANSFORMER' @43b5021c)
+	at net.teamabyssalofficial.extra.ParasiteKillsBuffEvent.ParasiteBuffEvent(ParasiteKillsBuffEvent.java:21) ~[fight_or_die-1.20.1-1.1.4.jar%23158!/:1.20.1-1.1.4]
+	at net.teamabyssalofficial.extra.__ParasiteKillsBuffEvent_ParasiteBuffEvent_LivingDeathEvent.invoke(.dynamic) ~[fight_or_die-1.20.1-1.1.4.jar%23158!/:1.20.1-1.1.4]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303) ~[forge-1.20.1-47.2.0-universal.jar%23188!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6667_(LivingEntity.java:1304) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.teamabyssalofficial.entity.categories.Mutated.m_6667_(Mutated.java:161) ~[fight_or_die-1.20.1-1.1.4.jar%23158!/:1.20.1-1.1.4]
+	at net.teamabyssalofficial.entity.custom.AssimilatedFoxEntity.m_6667_(AssimilatedFoxEntity.java:215) ~[fight_or_die-1.20.1-1.1.4.jar%23158!/:1.20.1-1.1.4]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_5790_(AbstractArrow.java:352) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.world.entity.projectile.Projectile.m_6532_(Projectile.java:138) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_8119_(AbstractArrow.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.world.entity.projectile.Arrow.m_8119_(Arrow.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23183!/:?]
+	... 5 more
+[05jun.2024 00:42:14.223] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7473c042-ccf5-45a5-83e8-144f1c6d58ff
+[05jun.2024 00:42:14.224] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: C:\Users\danie\OneDrive\Desktop\Cave Horror-v1.4-Server_Pack\.\crash-reports\crash-2024-06-05_00.42.14-server.txt
+[05jun.2024 00:42:14.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05jun.2024 00:42:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05jun.2024 00:42:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05jun.2024 00:42:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05jun.2024 00:42:14.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[05jun.2024 00:42:14.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05jun.2024 00:42:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05jun.2024 00:42:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05jun.2024 00:42:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05jun.2024 00:42:14.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[05jun.2024 00:42:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05jun.2024 00:42:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05jun.2024 00:42:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05jun.2024 00:42:14.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
